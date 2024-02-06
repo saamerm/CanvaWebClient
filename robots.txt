@@ -1,0 +1,10 @@
+User-agent: *
+Allow: *.css
+Allow: *.js
+Allow: *.jpg
+Allow: *.png
+Allow: *.gif
+Disallow: /manager/
+
+Host: https://12roseswindsor.com
+Sitemap: https://12roseswindsor.com/sitemap.xml
